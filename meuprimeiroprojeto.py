@@ -1,0 +1,1 @@
+print("amo essa aula tambem amo outras coisas tipo meu namorado e futuro noiva quem sabe vamos casar e depois ele vai fazer todas as comida que eu quiser ")
